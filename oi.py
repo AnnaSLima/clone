@@ -1,1 +1,1 @@
-print("oi py")
+print("oi")
